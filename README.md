@@ -27,4 +27,4 @@
      		<video width="240" lenght="300" controls autoplay>
      		<source src="C:\Users\4iden\Downloads\1 Minute of Blank Screen (HD 720p).mp4">
      		</video>	
-     		<p style="color:red;">f</p><p style="color:orange;">f</a><p style="color:yellow;">r</p><p style="color:green;">b</p><p style="color:blue;">i</p><p style="color:purple;">g</p>
+     		<p style="color:red;">f</p><p style="color:orange;">a</p><p style="color:yellow;">r</p><p style="color:green;">b</p><p style="color:blue;">i</p><p style="color:purple;">g</p>
