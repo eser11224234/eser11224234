@@ -14,7 +14,7 @@
 					<p>(Einsamer Wolf, Virus erfunden, Hello Neighbor)</p>			
 					<li><strong>Sucuk mit Nutella</strong></li>
 					<p>(Das Essen vom Einsamer Wolf)</p>
-					<img src= "C:\Users\4iden\Downloads\virusessen.jpg" width="100" lenght="200"controls>
+					<img src= "C:\Users\4iden\Downloads\virusessen.jpg" width="100" lenght="200"alt="ArdaVirus" controls>
 				</ul>
 			</div>
 			    <div style="margin-left: 10px;">
