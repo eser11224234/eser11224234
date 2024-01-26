@@ -29,5 +29,3 @@
      		</video>	
      		<p style="color:red;">farbiger Text</p>
          </div>
-     </body>
-</html>
