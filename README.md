@@ -8,7 +8,7 @@
 				<h2>Definition</h2>
 				<p style= "color: forestgreen;">Viren (Singular: das Virus, sind infektiöse organische Strukturen, die sich als Virionen<br> außerhalb von Zellen durch Übertragung verbreiten, aber als Viren in der Natur nur<br> innerhalb einer geeigneten Wirtszelle  vermehren können. 
 
-				<h3>Es gibt viele Arten von Virus:</h5>
+<h1> Es gibt viele Arten von Virus:</h5>
 				<ul>
 					<li><strong>Arda</strong></li>	
 					<p>(Einsamer Wolf, Virus erfunden, Hello Neighbor)</p>			
