@@ -1,26 +1,39 @@
 <html>
-	<header>Virus.com
-	</header>
-	<body>
-		<h1 style="color: limegreen;">Virus</h1>
-		<div style="display: inline-flex;">
-			<div>
-				<h2>Definition</h2>
-				<p style= "color: forestgreen;">Viren (Singular: das Virus, sind infektiöse organische Strukturen, die sich als Virionen<br> außerhalb von Zellen durch Übertragung verbreiten, aber als Viren in der Natur nur<br> innerhalb einer geeigneten Wirtszelle  vermehren können. 
+     <header>Seiten-Überschrift
+     </header>
+     <body>
+     	<div>
+     		<h1>Überschrift:(größte Überschrift)</h1>
+     		<ol>
+     			<li><h2>Test</h2></li>
+     			<li><h3>Test</h3></li>
+     			<li><h4>Test</h4></li>
+     			<li><h5>Test</h5></li>
+     			<li><h6>Test</h6></li>
+     		</ol>
+     		<p>/\<br>
+     		   || geordnete Tabelle</p>
+     		<p>ungeordnete Tabelle:
+     			<ul>
+     				<li>Test</li>
+     				<li>Test</li>
+            <p>normaler Text</p>
+            <p><strong>stark betont</strong>
+               <small>kleiner Text</small>
+               <em>kursiver Text</em><br>
+               linien Abbruch:<br>......
 
-<h3> Es gibt viele Arten von Virus:</h3>
-				<ul>
-					<li><strong>Arda</strong></li>	
-					<p>(Einsamer Wolf, Virus erfunden, Hello Neighbor)</p>			
-					<li><strong>Sucuk mit Nutella</strong></li>
-					<p>(Das Essen vom Einsamer Wolf)</p>
-					<img src= "C:\Users\4iden\Downloads\virusessen.jpg" width="100" lenght="200"alt="ArdaVirus" controls>
-				</ul>
-			</div>
-			    <div style="margin-left: 10px;">
-				    <img src="../../Bilder/ardavirus.jpg" width="200" lenght="150"controls>
-				    <img src="C:\Users\4iden\OneDrive\Bilder\virus-cells-in-green-dye.jpg" width="200" lenght="150"controls>
-			</div>	
-		</div>
-	</body>
+     	</div>
+     	<div>
+     		<img src="C:\Users\4iden\OneDrive\Bilder\bild_logo_noir-1.jpg" width="240" lenght="300" alt="Beispiel eines Bildes" controls>
+     		<video width="240" lenght="300" controls autoplay>
+     		<source src="C:\Users\4iden\Downloads\1 Minute of Blank Screen (HD 720p).mp4">
+     		</video>	
+
+     	</div>
+     	<div>
+     		<p style="color:red;">farbiger Text</p>
+
+     	</div>
+     </body>
 </html>
